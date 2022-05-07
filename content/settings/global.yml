@@ -1,8 +1,9 @@
-siteTitle: Yellow Cake
-siteUrl: 'https://yellowcake.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+siteTitle: Panaccordeon
+siteUrl: https://deluxe-chaja-b556ec.netlify.app/
+siteDescription: Η αγάπη μας για το ακορντεόν και τη μουσική, η επιθυμία μας να
+  υπάρχει ένας χώρος αποκλειστικά για την επισκευή του, καθώς και η αφοσίωσή μας
+  στον πελάτη, μας οδήγησαν στο να δημιουργήσουμε την Panaccordeon, έναν χώρο
+  διαμορφωμένο ειδικά για τους λάτρεις του ακορντεόν.
 socialMediaCard:
-  image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
-googleTrackingId: 'UA-133175780-1'
+  image: https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/
+googleTrackingId: ""
