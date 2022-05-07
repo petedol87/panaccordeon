@@ -1,8 +1,9 @@
 ---
 template: BlogIndex
-title: News
-subtitle: ''
-featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+title: Καινούργια
+subtitle: ""
+featuredImage: https://ucarecdn.com/b74143e7-6875-4620-a3e9-81af2003ac05/
+meta:
+  description: Στην Panaccordeon θα βρείτε καινούργια ακορντεόν ιταλικής
+    κατασκευής, με ποιότητα και φινέτσα.
 ---
-
