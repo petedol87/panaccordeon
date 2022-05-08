@@ -1,27 +1,23 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Επικοινωνία
+featuredImage: https://ucarecdn.com/5b9d4d6b-a164-4526-a5d8-cdaae6756f6d/
+subtitle: Παρακάτω θα βρείτε τους τρόπους με τους οποίους μπορείτε να
+  επικοινωνείτε μαζί μας.
+address: Γεωργίου Παπανδρέου, Παλαιών Πατρών Γερμανού 30, Νέα Πέραμος 190 06
+phone: "2296025652"
+email: info@panaccordeon.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: "38.01372580484089"
+    lng: "23.434053967813405"
+    mapLink: ""
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Τρόποι επικοινωνίας.
+  title: Επικοινωνία
 ---
+# Είμαστε στη διάθεση σας
 
-# Example contact form
+Επισκεφθείτε το χώρο μας για να γνωρίσετε από κοντά τον κόσμο του ακορντεόν, να δοκιμάσετε νέα όργανα, για συντήρηση/επισκευή του υπάρχοντος, αλλά και για να διαλέξετε από μια μεγάλη γκάμα αξεσουάρ. 
 
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Εναλλακτικά, μπορείτε να επικοινωνήσετε μαζί μας μέσω τηλεφώνου, ή συμπληρώνοντας την παρακάτω φόρμα.
