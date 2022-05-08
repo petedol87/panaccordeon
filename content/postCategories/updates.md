@@ -1,7 +1,14 @@
 ---
 template: BlogIndex
-title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+title: Μεταχειρισμένα ακορντεόν
+subtitle: Στην Panaccordeon σας εγγυόμαστε ότι οποιοδήποτε μεταχειρισμένο
+  ακορντεόν κι αν πάρετε στα χέρια σας έχει περάσει από έλεγχο καλής
+  λειτουργίας.
+featuredImage: https://ucarecdn.com/ee1029f8-b8b7-408d-9c8e-8983769850e1/
+meta:
+  title: Μεταχειρισμένα ακορντεόν
+  description: Στην Panaccordeon σας εγγυόμαστε ότι οποιοδήποτε μεταχειρισμένο
+    ακορντεόν κι αν πάρετε στα χέρια σας έχει περάσει από έλεγχο καλής
+    λειτουργίας.
+  canonicalLink: ""
 ---
-

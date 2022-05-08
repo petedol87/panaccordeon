@@ -1,10 +1,12 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Προϊόντα
+featuredImage: https://ucarecdn.com/7cb7ac6c-782f-4e1e-bff6-36d8c011e2a6/
+subtitle: Παρακάτω θα βρείτε όλα τα προϊόντα μας. Επιλέξτε μία από τις
+  κατηγορίες για να βρείτε πιο εύκολα αυτό που σας ενδιαφέρει.
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Επιλέξτε μία από τις κατηγορίες για να βρείτε πιο εύκολα αυτό που
+    σας ενδιαφέρει.
+  title: Προϊόντα
 ---
