@@ -4,7 +4,7 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
+      Βρείτε μας στο Instagram: {' '}
       <a href="https://instagram.com/panaccordeon/">@panaccordeon</a>
     </h2>
     <br />
