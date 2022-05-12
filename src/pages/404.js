@@ -25,11 +25,11 @@ export default ({ children }) => (
             <p>
               <AlertTriangle size="5rem" />
             </p>
-            <h1>404 - Page Not Found</h1>
+            <h1>404 - Η σελίδα δεν βρέθηκε</h1>
             <p>
-              We can't find the page you are looking for!
+              Δεν μπορέσαμε να βρούμε τη σελίδα που μας ζητήσατε!
               <br />
-              Head back to{' '}
+              Επιστροφή στο {' '}
               <Link to="/">{_get(data, 'globalSettings.siteTitle')}</Link>
             </p>
           </div>
