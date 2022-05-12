@@ -80,11 +80,7 @@ export class Navigation extends Component {
             >
               <span
                 className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
-                    ? 'active'
-                    : ''
+                  this.props.location.pathname.includes('accordions-') ? 'active' : ''
                 }`}
                 onClick={() => this.toggleSubNav('posts')}
                 onKeyDown={e => this.keyToggleSubNav(e, 'posts')}
@@ -92,7 +88,7 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Προϊόντα
+                Ακορντεόν
                 <div className="Nav--GroupLinks">
                   {/* <NavLink to="/products/" className="Nav--GroupLink">
                     Όλα
@@ -109,8 +105,8 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
-            <NavLink to="/default/">Default</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/visit-us/">Επισκεφθείτε μας</NavLink>
+            <NavLink to="/contact/">Επικοινωνία</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
