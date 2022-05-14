@@ -299,14 +299,30 @@ collections: # A list of collections the CMS should be able to edit
           label: Featured Image,
           name: featuredImage,
           widget: image,
-          required: false,
+          required: true,
         }
-      - { label: Excerpt, name: excerpt, widget: text }
-      - { label: Content, name: body, widget: markdown }
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'list'
+        fields:
+          - { name: image, label: Image, widget: image }
+          - { name: alt, label: Alt, widget: string }
+          - { name: title, label: Title, widget: string, required: false }
+      - { label: Excerpt, name: excerpt, widget: text, required: false }
+      - { label: Right hand - Notes, name: rightHandNotes, widget: string }
+      - { label: Right hand - Reeds, name: rightHandReeds, widget: string }
+      - { label: Right hand - Registers, name: rightHandRegisters, widget: string }
+      - { label: Cassotto, name: cassotto, widget: string }
+      - { label: Left hand - Bass, name: leftHandBass, widget: string }
+      - { label: Left hand - Reeds, name: leftHandReeds, widget: string }
+      - { label: Left hand - Registers, name: leftHandRegisters, widget: string }
+      - { label: Special features, name: specialFeatures, widget: string, required: false }
+      - { label: Weight, name: weight, widget: string, required: false }
+      - { label: Dimensions, name: dimensions, widget: string, required: false }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
-        required: false
+        required: true
         fields:
           - label: 'Category'
             name: 'category'

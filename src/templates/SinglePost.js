@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
-import { ChevronLeft } from 'react-feather'
-
+import { ChevronLeft, ChevronRight } from 'react-feather'
+import Image from '../components/Image'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
@@ -10,7 +10,20 @@ import './SinglePost.css'
 export const SinglePostTemplate = ({
   title,
   date,
-  body,
+  featuredImage,
+  gallery,
+  excerpt,
+  rightHandNotes,
+  rightHandReeds,
+  rightHandRegisters,
+  cassotto,
+  leftHandBass,
+  leftHandReeds,
+  leftHandRegisters,
+  specialFeatures,
+  weight,
+  dimensions,
+//   body,
   nextPostURL,
   prevPostURL,
   categories = []
@@ -22,9 +35,9 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/products/">
-          <ChevronLeft /> BACK
-        </Link>
+        {/* <Link className="SinglePost--BackButton" to="/products/">
+          <ChevronLeft /> ΠΙΣΩ
+        </Link> */}
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
             {date && (
@@ -59,8 +72,17 @@ export const SinglePostTemplate = ({
             </h1>
           )}
 
+          {featuredImage && (
+            <Image
+                resolutions="large"
+                src={featuredImage}
+                alt={title}
+                size="cover"
+                />
+          )}
+
           <div className="SinglePost--InnerContent">
-            <Content source={body} />
+            <Content source={excerpt} />
           </div>
 
           <div className="SinglePost--Pagination">
@@ -69,7 +91,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Previous Post
+                <ChevronLeft />
               </Link>
             )}
             {nextPostURL && (
@@ -77,7 +99,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                <ChevronRight />
               </Link>
             )}
           </div>
@@ -98,7 +120,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
       <SinglePostTemplate
         {...post}
         {...post.frontmatter}
-        body={post.html}
+        //body={post.html}
         nextPostURL={_get(thisEdge, 'next.fields.slug')}
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
       />

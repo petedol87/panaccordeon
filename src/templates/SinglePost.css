@@ -47,6 +47,7 @@
 .SinglePost--Title {
   text-align: center;
   line-height: 1.2;
+  margin-bottom: 1em;
 }
 
 .SinglePost--InnerContent {
