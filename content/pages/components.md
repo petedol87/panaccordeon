@@ -6,7 +6,7 @@ featuredImage: https://ucarecdn.com/d8a2ced2-34e4-41a8-8fa5-66570298be90/
 subtitle: Στα χέρια μας το ακορντεόν σας θα δεχτεί την απαραίτητη φροντίδα που
   χρειάζεται ώστε να συντηρηθεί σωστά σε βάθος χρόνου.
 section1: >-
-  ## This is a container component
+  ## Κείμενο για Συντήρηση - Επισκευή
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
@@ -34,6 +34,6 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Στα χέρια μας το ακορντεόν σας θα δεχτεί την απαραίτητη φροντίδα που χρειάζεται ώστε να συντηρηθεί σωστά σε βάθος χρόνου.
+  title: Συντήρηση - Επισκευή
 ---

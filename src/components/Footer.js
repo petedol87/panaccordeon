@@ -3,10 +3,10 @@ import './Footer.css'
 
 export default () => (
   <div>
-    <h2 className="taCenter">
-      Βρείτε μας στο Instagram: {' '}
+    <h4 className="taCenter">
+      Βρείτε μας και στο Instagram: {' '}
       <a href="https://instagram.com/panaccordeon/">@panaccordeon</a>
-    </h2>
+    </h4>
     <br />
     <footer className="footer">
       <div className="container taCenter">
