@@ -306,7 +306,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'list'
         fields:
           - { name: image, label: Image, widget: image }
-          - { name: alt, label: Alt, widget: string }
+          - { name: alt, label: Alt, widget: string, required: false }
           - { name: title, label: Title, widget: string, required: false }
       - { label: Excerpt, name: excerpt, widget: text, required: false }
       - { label: Right hand - Notes, name: rightHandNotes, widget: string }
@@ -361,6 +361,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: Template, name: template, widget: hidden, default: BlogIndex }
       - { label: Title, name: title, widget: string }
       - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - { label: Order, name: order, widget: string }
       - {
           label: Featured Image,
           name: featuredImage,

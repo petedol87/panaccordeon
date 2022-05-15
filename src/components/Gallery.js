@@ -67,7 +67,7 @@ export default class Gallery extends Component {
     const { images } = this.props,
       maxCount = images.length
     let loopCount = 1
-
+    
     for (let i in images) {
       if (this.getImageInfo(images[i], i)) {
         this.setState({ loaded: loopCount === maxCount })
@@ -96,7 +96,7 @@ export default class Gallery extends Component {
                   <Image
                     resolutions="small"
                     src={image.image}
-                    alt={image.alt}
+                    alt={image.alt || ''}
                   />
                 </div>
                 {image.title && <figcaption>{image.title}</figcaption>}

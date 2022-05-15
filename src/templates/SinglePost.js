@@ -5,6 +5,7 @@ import { ChevronLeft, ChevronRight } from 'react-feather'
 import Image from '../components/Image'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import Gallery from '../components/Gallery'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
@@ -71,19 +72,53 @@ export const SinglePostTemplate = ({
               {title}
             </h1>
           )}
-
+          
           {featuredImage && (
-            <Image
+            <div className="SinglePost--FeaturedImage relative">
+              <Image
+                background 
                 resolutions="large"
                 src={featuredImage}
                 alt={title}
-                size="cover"
+                size="contain"
                 />
+            </div>
           )}
 
           <div className="SinglePost--InnerContent">
             <Content source={excerpt} />
           </div>
+
+          <div className="SinglePost--Characteristics taCenter">
+            <div className="SinglePost--Characteristics--Column taLeft">
+              <h5>Δεξί χέρι</h5>
+              {rightHandNotes && (<div>Νότες: <strong>{rightHandNotes}</strong></div>)}
+              {rightHandReeds && (<div>Φωνές: <strong>{rightHandReeds}</strong></div>)}
+              {rightHandRegisters && (<div>Ρετζίστρα: <strong>{rightHandRegisters}</strong></div>)}
+            </div>
+            <div className="SinglePost--Characteristics--Column taLeft">
+              <h5>Αριστερό χέρι</h5>
+              {leftHandBass && (<div>Μπάσα: <strong>{leftHandBass}</strong></div>)}
+              {leftHandReeds && (<div>Φωνές: <strong>{leftHandReeds}</strong></div>)}
+              {leftHandRegisters && (<div>Ρετζίστρα: <strong>{leftHandRegisters}</strong></div>)}
+            </div>
+            <br/>
+            {cassotto && (<div>Cassotto: <strong>{cassotto}</strong></div>)}
+            <div className="SinglePost--Characteristics--Column taLeft">
+              {weight && (<div>Βάρος: <strong>{weight}</strong></div>)}
+            </div>
+            <div className="SinglePost--Characteristics--Column taLeft">
+              {dimensions && (<div>Διαστάσεις: <strong>{dimensions}</strong></div>)}
+            </div>
+            {specialFeatures && (<div className="SinglePost--Characteristics--SpecialFeatures">{specialFeatures}</div>)}
+          </div>
+
+
+          <section className="section">
+            <div className="container">
+                <Gallery images={gallery} />
+            </div>
+          </section>
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
@@ -138,13 +173,25 @@ export const pageQuery = graphql`
   query SinglePost($id: String!) {
     post: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       id
       frontmatter {
         title
         template
-        subtitle
         date(formatString: "MMMM Do, YYYY")
+        featuredImage
+        excerpt
+        rightHandNotes
+        rightHandReeds
+        rightHandRegisters
+        cassotto
+        leftHandBass
+        leftHandReeds
+        leftHandRegisters
+        specialFeatures
+        weight
+        dimensions
         categories {
           category
         }
