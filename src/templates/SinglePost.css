@@ -47,10 +47,11 @@
 .SinglePost--Title {
   text-align: center;
   line-height: 1.2;
-  margin-bottom: 1em;
+  margin-bottom: 1.2em;
 }
 
 .SinglePost--InnerContent {
+  margin: 1.2em 0;
   padding: 0 8rem;
 }
 
@@ -76,4 +77,20 @@
 
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
+}
+
+.SinglePost--FeaturedImage {
+    height: calc(90vw - 8rem);
+    max-height: calc(888px - 8rem);
+}
+
+.SinglePost--Characteristics--Column { 
+    display: inline-block;
+    max-width: 49%;
+    padding: 1em;
+}
+
+.SinglePost--Characteristics--SpecialFeatures {
+    margin-top: 0.5em;
+    font-style: italic;
 }
