@@ -25,7 +25,7 @@
   color: var(--primary);
 }
 
-@media (min-width: 750px) {
+/* @media (min-width: 750px) {
   .Contact--Section1--Container {
     display: flex;
     justify-content: space-between;
@@ -35,4 +35,4 @@
   .Contact--Section1--Container > * {
     width: calc(50% - 2rem);
   }
-}
+} */
