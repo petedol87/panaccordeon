@@ -93,7 +93,7 @@ export class Navigation extends Component {
                   {/* <NavLink to="/products/" className="Nav--GroupLink">
                     Όλα
                   </NavLink> */}
-                  {subNav.posts.map((link, index) => (
+                  {subNav.posts.sort((a, b) => a.order - b.order).map((link, index) => (
                     <NavLink
                       to={link.slug}
                       key={'posts-subnav-link-' + index}
