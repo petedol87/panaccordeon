@@ -50,6 +50,7 @@ export default class Meta extends Component {
         )}
         {noindex && <meta name="robots" content="noindex" />}
         {canonicalLink && <link rel="canonical" href={canonicalLink} />}
+        <meta name="theme-color" content="#721c08"></meta>
 
         <meta property="og:locale" content="en_US" />
         <meta property="og:site_name" content={siteTitle} />

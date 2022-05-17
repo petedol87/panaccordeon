@@ -56,8 +56,10 @@ export const BlogIndexTemplate = ({
 
       if (enableSearch && queryObj.s) {
         const searchTerm = queryObj.s.toLowerCase()
-        filteredPosts = filteredPosts.filter(post =>
-          post.frontmatter.title.toLowerCase().includes(searchTerm)
+        filteredPosts = filteredPosts.filter(post => {
+          const isCategory = searchTerm.length < 3 ? false : post.frontmatter.categories.some(c => c.category && c.category.toLowerCase().includes(searchTerm));
+          console.log("isCategory?", isCategory)
+          return isCategory || post.frontmatter.title.toLowerCase().includes(searchTerm) }
         )
       }
 
@@ -168,6 +170,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            order
           }
         }
       }

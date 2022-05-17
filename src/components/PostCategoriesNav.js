@@ -9,7 +9,7 @@ const PostCategoriesNav = ({ categories, enableSearch }) => (
     {/* <Link className="NavLink" exact="true" to={`/products/`}>
       All
     </Link> */}
-    {categories.map((category, index) => (
+    {categories.sort((a, b) => a.order - b.order).map((category, index) => (
       <Link
         exact="true"
         className="NavLink"
