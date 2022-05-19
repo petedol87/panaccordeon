@@ -72,7 +72,6 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Αρχική</NavLink>
-            <NavLink to="/repair/">Συντήρηση - Επισκευή</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -105,7 +104,8 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
-            <NavLink to="/visit-us/">Επισκεφθείτε μας</NavLink>
+            <NavLink to="/service/">Service</NavLink>
+            <NavLink to="/info/">Συμβουλές</NavLink>
             <NavLink to="/contact/">Επικοινωνία</NavLink>
           </div>
           <button

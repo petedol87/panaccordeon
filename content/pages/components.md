@@ -1,6 +1,6 @@
 ---
 template: ComponentsPage
-slug: repair
+slug: service
 title: Συντήρηση - Επισκευή
 featuredImage: https://ucarecdn.com/d8a2ced2-34e4-41a8-8fa5-66570298be90/
 subtitle: Στα χέρια μας το ακορντεόν σας θα δεχτεί την απαραίτητη φροντίδα που
