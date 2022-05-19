@@ -1,17 +1,40 @@
 ---
 template: ComponentsPage
 slug: service
-title: Συντήρηση - Επισκευή
+title: Service
 featuredImage: https://ucarecdn.com/d8a2ced2-34e4-41a8-8fa5-66570298be90/
-subtitle: Στα χέρια μας το ακορντεόν σας θα δεχτεί την απαραίτητη φροντίδα που
-  χρειάζεται ώστε να συντηρηθεί σωστά σε βάθος χρόνου.
+subtitle: Κούρδισμα - Επισκευή - Ανακατασκευή - Αναπαλαίωση
 section1: >-
-  ## Κείμενο για Συντήρηση - Επισκευή
+  Καθώς ο χώρος μας είναι ο πιο εξοπλισμένος και ειδικευμένος στο είδος του
+  πανελλαδικά, αναλαμβάνουμε κάθε εργασία, από απλή επισκευή ακορντεόν έως και
+  την πλήρη ανακατασκευή του. 
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  Χρησιμοποιούμε υλικά σύμφωνα με την χώρα προέλευσης και από τους καλύτερους οίκους της Ευρώπης.
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  * Κούρδισμα
+
+  * Καθάρισμα γλωττιδίων (φωνών)
+
+  * Καθάρισμα - επιδιόρθωση πληκτρολογίου
+
+  * Εξωτερικό γυάλισμα
+
+  * Αντικατάσταση αναλώσιμων υλικών
+
+  * Καθάρισμα - συντήρηση μηχανισμού μπάσων
+
+  * Βελτίωση σε όλα τα σημεία - ήχο - πλήκτρα - εμφάνιση
+
+  * Τοποθέτηση εσωτερικών μικροφωνικών συστημάτων
+    διαφόρων εταιριών και ποιοτήτων
+  * Παραλαβή και παράδοση του οργάνου σε συνεργασία με
+    εταιρείες courier  
+
+  #### Αποκατάσταση παλαιών οργάνων
+
+
+  Με σεβασμό στις αρχές κατασκευής του κάθε οργάνου προσφέρουμε εργασίες αποκατάστασης παλαιών και συλλεκτικών οργάνων όλων των ειδών (ακορντεόν, μπαντονεόν, διατονικά κτλ.) που βασίζονται στη λειτουργία με μεταλλικές γλωττίδες και αέρα.
 section2: >-
   ## You can use videos, images and text.
 
@@ -34,6 +57,7 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: Στα χέρια μας το ακορντεόν σας θα δεχτεί την απαραίτητη φροντίδα που χρειάζεται ώστε να συντηρηθεί σωστά σε βάθος χρόνου.
-  title: Συντήρηση - Επισκευή
+  description: Κούρδισμα ακορντεόν. Επισκευή ακορντεόν. Ανακατασκευή ακορντεόν.
+    Αναπαλαίωση ακορντεόν. Αποκατάσταση παλαιών οργάνων.
+  title: Service
 ---
