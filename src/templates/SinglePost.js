@@ -41,7 +41,7 @@ export const SinglePostTemplate = ({
         </Link> */}
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
-            {date && (
+            {/* {date && (
               <time
                 className="SinglePost--Meta--Date"
                 itemProp="dateCreated pubdate datePublished"
@@ -49,10 +49,10 @@ export const SinglePostTemplate = ({
               >
                 {date}
               </time>
-            )}
+            )} */}
             {categories && (
               <Fragment>
-                <span>|</span>
+                {/* <span>|</span> */}
                 {categories.map((cat, index) => (
                   <span
                     key={cat.category}
@@ -90,26 +90,34 @@ export const SinglePostTemplate = ({
           </div>
 
           <div className="SinglePost--Characteristics taCenter">
+          {(rightHandNotes || rightHandReeds || rightHandRegisters) && (
             <div className="SinglePost--Characteristics--Column taLeft">
               <h5>Δεξί χέρι</h5>
               {rightHandNotes && (<div>Νότες: <strong>{rightHandNotes}</strong></div>)}
               {rightHandReeds && (<div>Φωνές: <strong>{rightHandReeds}</strong></div>)}
               {rightHandRegisters && (<div>Ρετζίστρα: <strong>{rightHandRegisters}</strong></div>)}
             </div>
+          )}
+          {(leftHandBass || leftHandReeds || leftHandRegisters) && (
             <div className="SinglePost--Characteristics--Column taLeft">
               <h5>Αριστερό χέρι</h5>
               {leftHandBass && (<div>Μπάσα: <strong>{leftHandBass}</strong></div>)}
               {leftHandReeds && (<div>Φωνές: <strong>{leftHandReeds}</strong></div>)}
               {leftHandRegisters && (<div>Ρετζίστρα: <strong>{leftHandRegisters}</strong></div>)}
             </div>
+          )}
             <br/>
             {cassotto && (<div>Cassotto: <strong>{cassotto}</strong></div>)}
+          {weight && (
             <div className="SinglePost--Characteristics--Column taLeft">
-              {weight && (<div>Βάρος: <strong>{weight}</strong></div>)}
+              <div>Βάρος: <strong>{weight} (kg)</strong></div>
             </div>
+          )}
+          {dimensions && (
             <div className="SinglePost--Characteristics--Column taLeft">
-              {dimensions && (<div>Διαστάσεις: <strong>{dimensions}</strong></div>)}
+              <div>Διαστάσεις: <strong>{dimensions} (cm)</strong></div>
             </div>
+          )}
             {specialFeatures && (<div className="SinglePost--Characteristics--SpecialFeatures">{specialFeatures}</div>)}
           </div>
 
