@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: service
 title: Service
-featuredImage: https://ucarecdn.com/d8a2ced2-34e4-41a8-8fa5-66570298be90/
+featuredImage: https://ucarecdn.com/a1c4dd0c-9d6f-47c1-9340-e5ff1344aa48/
 subtitle: Κούρδισμα - Επισκευή - Ανακατασκευή - Αναπαλαίωση
 section1: >-
   Καθώς ο χώρος μας είναι ο πιο εξοπλισμένος και ειδικευμένος στο είδος του
@@ -47,15 +47,8 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - image: https://ucarecdn.com/2967e531-4fe4-47a2-8ff2-7810e00fe266/
+    alt: Επισκευή ακορντεόν
 meta:
   description: Κούρδισμα ακορντεόν. Επισκευή ακορντεόν. Ανακατασκευή ακορντεόν.
     Αναπαλαίωση ακορντεόν. Αποκατάσταση παλαιών οργάνων.
