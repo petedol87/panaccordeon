@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Panaccordeon
-featuredImage: https://ucarecdn.com/f55d71d0-4cd4-4d9f-aae3-ab5975c42352/
+featuredImage: https://ucarecdn.com/0b02c54d-58e9-413b-9dd8-ba63986ba568/
 subtitle: Καλώς ήρθατε στην ιστοσελίδα μας
 meta:
   description: Panaccordeon - ένας χώρος διαμορφωμένος ειδικά για τους λάτρεις του
