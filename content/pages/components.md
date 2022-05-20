@@ -65,7 +65,15 @@ gallery:
     alt: Επισκευή ακορντεόν
   - image: https://ucarecdn.com/86cad767-78b2-4394-9b2a-c370951d1672/
     alt: Επισκευή ακορντεόν
-  - image: https://ucarecdn.com/d46f3e04-515e-40cc-bf87-18252983ab58/
+  - image: https://ucarecdn.com/ea6cf000-96bd-463e-b5e2-ac5de7054783/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/44f0fad2-29cc-4af0-8d51-de01b1f21a80/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/21f64d63-b69e-4b73-a85c-fc1812d2a6f9/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/5ef7daa8-e7fc-4322-9d05-af9b22da5a57/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/8bb3557b-271e-48f7-8c6d-072d4bf7c0a0/
     alt: Επισκευή ακορντεόν
 meta:
   description: Κούρδισμα ακορντεόν. Επισκευή ακορντεόν. Ανακατασκευή ακορντεόν.
