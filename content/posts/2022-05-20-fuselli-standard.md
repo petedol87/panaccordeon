@@ -9,6 +9,8 @@ gallery:
   - image: https://ucarecdn.com/a146f795-31fe-4593-8372-b180ac9edd35/
 excerpt: Μαλακή θήκη πλάτης Fuselli "Standard" σε διάφορα μεγέθη για όλους τους
   τύπους ακορντεόν.
+categories:
+  - category: Θήκες
 meta:
   title: Θήκη ακορντεόν Fuselli Standard
   description: Θήκη ακορντεόν Fuselli Standard
