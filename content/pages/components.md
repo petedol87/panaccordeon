@@ -49,6 +49,14 @@ accordion:
 gallery:
   - image: https://ucarecdn.com/2967e531-4fe4-47a2-8ff2-7810e00fe266/
     alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/39bb7323-56f9-4f21-bf63-872419b2ef72/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/2de88d9c-ed4d-4f3d-8a22-291b93b60bb2/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/ea26fb8f-69eb-4bf3-8d7d-302f70725f29/
+    alt: Επισκευή ακορντεόν
+  - image: https://ucarecdn.com/4f7ae31c-dc65-4478-9c41-e68f139c0665/
+    alt: Επισκευή ακορντεόν
 meta:
   description: Κούρδισμα ακορντεόν. Επισκευή ακορντεόν. Ανακατασκευή ακορντεόν.
     Αναπαλαίωση ακορντεόν. Αποκατάσταση παλαιών οργάνων.
