@@ -55,11 +55,11 @@ export const BlogIndexTemplate = ({
       queryObj = qs.parse(queryObj)
 
       if (enableSearch && queryObj.s) {
-        const searchTerm = queryObj.s.toLowerCase()
+        const searchTerm = queryObj.s.toLowerCase() || ''
         filteredPosts = filteredPosts.filter(post => {
-          const isCategory = searchTerm.length < 3 ? false : post.frontmatter.categories.some(c => c.category && c.category.toLowerCase().includes(searchTerm));
-          console.log("isCategory?", isCategory)
-          return isCategory || post.frontmatter.title.toLowerCase().includes(searchTerm) }
+          const isCategoryTerm = searchTerm.length < 3 ? false : post.frontmatter.categories.some(c => c.category && c.category.toLowerCase().includes(searchTerm));
+          
+          return isCategoryTerm || post.frontmatter.title.toLowerCase().includes(searchTerm) }
         )
       }
 
