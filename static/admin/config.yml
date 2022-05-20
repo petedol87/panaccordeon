@@ -309,13 +309,13 @@ collections: # A list of collections the CMS should be able to edit
           - { name: alt, label: Alt, widget: string, required: false }
           - { name: title, label: Title, widget: string, required: false }
       - { label: Excerpt, name: excerpt, widget: text, required: false }
-      - { label: Right hand - Notes, name: rightHandNotes, widget: string }
-      - { label: Right hand - Reeds, name: rightHandReeds, widget: string }
-      - { label: Right hand - Registers, name: rightHandRegisters, widget: string }
+      - { label: Right hand - Notes, name: rightHandNotes, widget: string, required: false }
+      - { label: Right hand - Reeds, name: rightHandReeds, widget: string, required: false }
+      - { label: Right hand - Registers, name: rightHandRegisters, widget: string, required: false }
       - { label: Cassotto, name: cassotto, widget: string, required: false }
-      - { label: Left hand - Bass, name: leftHandBass, widget: string }
-      - { label: Left hand - Reeds, name: leftHandReeds, widget: string }
-      - { label: Left hand - Registers, name: leftHandRegisters, widget: string }
+      - { label: Left hand - Bass, name: leftHandBass, widget: string, required: false }
+      - { label: Left hand - Reeds, name: leftHandReeds, widget: string, required: false }
+      - { label: Left hand - Registers, name: leftHandRegisters, widget: string, required: false }
       - { label: Special features, name: specialFeatures, widget: string, required: false }
       - { label: Weight, name: weight, widget: string, required: false }
       - { label: Dimensions, name: dimensions, widget: string, required: false }
