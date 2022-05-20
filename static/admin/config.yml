@@ -312,7 +312,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: Right hand - Notes, name: rightHandNotes, widget: string }
       - { label: Right hand - Reeds, name: rightHandReeds, widget: string }
       - { label: Right hand - Registers, name: rightHandRegisters, widget: string }
-      - { label: Cassotto, name: cassotto, widget: string }
+      - { label: Cassotto, name: cassotto, widget: string, required: false }
       - { label: Left hand - Bass, name: leftHandBass, widget: string }
       - { label: Left hand - Reeds, name: leftHandReeds, widget: string }
       - { label: Left hand - Registers, name: leftHandRegisters, widget: string }
