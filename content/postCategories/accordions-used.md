@@ -2,15 +2,11 @@
 template: BlogIndex
 slug: accordions-used
 title: Μεταχειρισμένα
-subtitle: Στην Panaccordeon σας εγγυόμαστε ότι οποιοδήποτε μεταχειρισμένο
-  ακορντεόν κι αν πάρετε στα χέρια σας έχει περάσει από έλεγχο καλής
-  λειτουργίας.
+subtitle: Μεταχειρισμένα ακορντεόν με εγγύηση ελέγχου καλής λειτουργίας.
 order: "2"
-featuredImage: https://ucarecdn.com/ee1029f8-b8b7-408d-9c8e-8983769850e1/
+featuredImage: https://ucarecdn.com/4c207796-d022-4859-9579-3da6c3672bc2/
 meta:
   title: Μεταχειρισμένα ακορντεόν
-  description: Στην Panaccordeon σας εγγυόμαστε ότι οποιοδήποτε μεταχειρισμένο
-    ακορντεόν κι αν πάρετε στα χέρια σας έχει περάσει από έλεγχο καλής
-    λειτουργίας.
+  description: Μεταχειρισμένα ακορντεόν προς πώληση.
   canonicalLink: ""
 ---
