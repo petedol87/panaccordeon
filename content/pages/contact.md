@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Επικοινωνία
-featuredImage: https://ucarecdn.com/5b9d4d6b-a164-4526-a5d8-cdaae6756f6d/
+featuredImage: https://ucarecdn.com/2cfc67ac-6200-4ed5-8126-20fd3d729cf7/
 subtitle: Παρακάτω θα βρείτε τους τρόπους με τους οποίους μπορείτε να
   επικοινωνείτε μαζί μας
 address: Γεωργίου Παπανδρέου, Παλαιών Πατρών Γερμανού 30, Νέα Πέραμος 190 06
