@@ -20,6 +20,7 @@ cassotto: Ναι
 leftHandBass: "120"
 leftHandReeds: "5"
 leftHandRegisters: "9"
+specialFeatures: "Τιμή: κατόπιν επικοινωνίας"
 weight: 11,5
 dimensions: 48,5x19,5x44
 categories:
