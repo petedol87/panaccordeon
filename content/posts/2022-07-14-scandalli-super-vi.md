@@ -26,5 +26,5 @@ categories:
   - category: Μεταχειρισμένα
 meta:
   title: Scandalli Super VI
-  description: Scandalli Super VI ακορντεόν
+  description: Scandalli Super VI ακορντεόν.
 ---
