@@ -15,6 +15,8 @@ gallery:
   - image: https://ucarecdn.com/58b37eb6-3069-4370-a1ad-8296dc7ba1b8/
   - image: https://ucarecdn.com/e5e5c76c-3b40-4c36-a5c1-b843ee5e3db1/
   - image: https://ucarecdn.com/cfbac5c2-7d45-4722-bf91-03e601fbd58b/
+excerpt: Ιδανικό όργανο για επαγγελματίες. Διαθέτει επιπλέον και 3 ρετζίστρα
+  πηγουνιού για γρήγορες αλλαγές.
 rightHandNotes: "41"
 rightHandReeds: "4"
 rightHandRegisters: 11 + M+ 3 πηγουνιού
@@ -22,7 +24,7 @@ cassotto: Ναι
 leftHandBass: "120"
 leftHandReeds: "5"
 leftHandRegisters: "7"
-specialFeatures: Ιδανικό για επαγγελματίες. Διαθέτει επιπλέον και 3 ρετζίστρα πηγουνιού.
+specialFeatures: "Τιμή: 5.500 €"
 weight: 11,7
 dimensions: 44,5x19,1
 categories:
