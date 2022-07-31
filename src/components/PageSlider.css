@@ -6,6 +6,16 @@
 
 .PageSlider .BackgroundImage {
   opacity: 0.8;
+  position: static;
+  height: 52.78rem;
+}
+
+.PageSlider .Slider {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 .PageSlider-large {
