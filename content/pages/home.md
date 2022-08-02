@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Panaccordeon
 featuredImage: https://ucarecdn.com/0b02c54d-58e9-413b-9dd8-ba63986ba568/
-subtitle: Καλώς ήρθατε στην ιστοσελίδα μας
+subtitle: Επισκευή - Συντήρηση - Εμπορία ακορντεόν
 meta:
   description: Panaccordeon - ένας χώρος διαμορφωμένος ειδικά για τους λάτρεις του
     ακορντεόν. Αναλαμβάνουμε κάθε εργασία, από απλή επισκευή ακορντεόν έως και
