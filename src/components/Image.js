@@ -110,7 +110,7 @@ class Image extends React.Component {
               ref={this.ref}
               style={{
                 backgroundImage: `url(${smallSrc})`,
-                backgroundSize: 'cover'
+                backgroundSize
               }}
             >
               {!background && (
@@ -127,7 +127,7 @@ class Image extends React.Component {
               )}
               {background && (
                 <div
-                  className={`${lazy} LazyImage BackgroundImage absolute ${
+                  className={`${lazy} LazyImage BackgroundImage absolute white ${
                     className + this.state.isIntersecting ? ' faded' : ''
                   }`}
                   style={style}

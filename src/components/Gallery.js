@@ -97,6 +97,8 @@ export default class Gallery extends Component {
                     resolutions="small"
                     src={image.image}
                     alt={image.alt || ''}
+                    background
+                    backgroundSize="cover"
                   />
                 </div>
                 {image.title && <figcaption>{image.title}</figcaption>}

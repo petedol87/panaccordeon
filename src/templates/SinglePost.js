@@ -24,7 +24,7 @@ export const SinglePostTemplate = ({
   specialFeatures,
   weight,
   dimensions,
-//   body,
+  //   body,
   nextPostURL,
   prevPostURL,
   categories = []
@@ -35,7 +35,7 @@ export const SinglePostTemplate = ({
       itemScope
       itemType="http://schema.org/BlogPosting"
     >
-      <div className="container skinny">
+      <div className="container">
         {/* <Link className="SinglePost--BackButton" to="/products/">
           <ChevronLeft /> ΠΙΣΩ
         </Link> */}
@@ -72,59 +72,59 @@ export const SinglePostTemplate = ({
               {title}
             </h1>
           )}
-          
+
           {featuredImage && (
             <div className="SinglePost--FeaturedImage relative">
               <Image
-                background 
+                background
                 resolutions="large"
                 src={featuredImage}
                 alt={title}
-                size="contain"
-                />
+                backgroundSize="contain"
+              />
             </div>
           )}
 
-          <div className="SinglePost--InnerContent">
+          <div className="SinglePost--InnerContent taCenter">
             <Content source={excerpt} />
           </div>
 
           <div className="SinglePost--Characteristics taCenter">
-          {(rightHandNotes || rightHandReeds || rightHandRegisters) && (
-            <div className="SinglePost--Characteristics--Column taLeft">
-              <h5>Δεξί χέρι</h5>
-              {rightHandNotes && (<div>Νότες: <strong>{rightHandNotes}</strong></div>)}
-              {rightHandReeds && (<div>Φωνές: <strong>{rightHandReeds}</strong></div>)}
-              {rightHandRegisters && (<div>Ρετζίστρα: <strong>{rightHandRegisters}</strong></div>)}
-            </div>
-          )}
-          {(leftHandBass || leftHandReeds || leftHandRegisters) && (
-            <div className="SinglePost--Characteristics--Column taLeft">
-              <h5>Αριστερό χέρι</h5>
-              {leftHandBass && (<div>Μπάσα: <strong>{leftHandBass}</strong></div>)}
-              {leftHandReeds && (<div>Φωνές: <strong>{leftHandReeds}</strong></div>)}
-              {leftHandRegisters && (<div>Ρετζίστρα: <strong>{leftHandRegisters}</strong></div>)}
-            </div>
-          )}
-            <br/>
+            {(rightHandNotes || rightHandReeds || rightHandRegisters) && (
+              <div className="SinglePost--Characteristics--Column taLeft">
+                <h5>Δεξί χέρι</h5>
+                {rightHandNotes && (<div>Νότες: <strong>{rightHandNotes}</strong></div>)}
+                {rightHandReeds && (<div>Φωνές: <strong>{rightHandReeds}</strong></div>)}
+                {rightHandRegisters && (<div>Ρετζίστρα: <strong>{rightHandRegisters}</strong></div>)}
+              </div>
+            )}
+            {(leftHandBass || leftHandReeds || leftHandRegisters) && (
+              <div className="SinglePost--Characteristics--Column taLeft">
+                <h5>Αριστερό χέρι</h5>
+                {leftHandBass && (<div>Μπάσα: <strong>{leftHandBass}</strong></div>)}
+                {leftHandReeds && (<div>Φωνές: <strong>{leftHandReeds}</strong></div>)}
+                {leftHandRegisters && (<div>Ρετζίστρα: <strong>{leftHandRegisters}</strong></div>)}
+              </div>
+            )}
+            <br />
             {cassotto && (<div>Cassotto: <strong>{cassotto}</strong></div>)}
-          {weight && (
-            <div className="SinglePost--Characteristics--Column taLeft">
-              <div>Βάρος: <strong>{weight} (kg)</strong></div>
-            </div>
-          )}
-          {dimensions && (
-            <div className="SinglePost--Characteristics--Column taLeft">
-              <div>Διαστάσεις: <strong>{dimensions} (cm)</strong></div>
-            </div>
-          )}
+            {weight && (
+              <div className="SinglePost--Characteristics--Column taLeft">
+                <div>Βάρος: <strong>{weight} (kg)</strong></div>
+              </div>
+            )}
+            {dimensions && (
+              <div className="SinglePost--Characteristics--Column taLeft">
+                <div>Διαστάσεις: <strong>{dimensions} (cm)</strong></div>
+              </div>
+            )}
             {specialFeatures && (<div className="SinglePost--Characteristics--SpecialFeatures">{specialFeatures}</div>)}
           </div>
 
 
           <section className="section">
             <div className="container">
-                <Gallery images={gallery} />
+              <Gallery images={gallery} />
             </div>
           </section>
 
