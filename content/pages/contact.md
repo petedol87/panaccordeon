@@ -7,7 +7,7 @@ subtitle: Παρακάτω θα βρείτε τους τρόπους με του
   επικοινωνείτε μαζί μας
 address: Γεωρ. Παπανδρέου 30, Νέα Πέραμος 190 06
 phone: "2296025652"
-email: info@panaccordeon.com
+email: info@panaccordeon.gr
 locations:
   - lat: "38.01372580484089"
     lng: "23.434053967813405"
