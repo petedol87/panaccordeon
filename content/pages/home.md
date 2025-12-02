@@ -2,10 +2,12 @@
 template: HomePage
 slug: ""
 title: Panaccordeon
-featuredImage: https://4nu0goopbx.ucarecd.net/4e6bbe46-17c9-437c-9ec3-e7d2b189e67e/
+featuredImage: https://4nu0goopbx.ucarecd.net/70740d3a-a4f7-43c7-a541-bf72adefa11d/
 subtitle: Επισκευή - Συντήρηση - Εμπορία ακορντεόν
 gallery:
-  - image: https://4nu0goopbx.ucarecd.net/6e5c00b5-f80b-4ba0-8294-90ff09146da6/
+  - image: https://4nu0goopbx.ucarecd.net/ee42c612-e98a-4eb6-8036-b9ae2e883402/
+  - image: https://4nu0goopbx.ucarecd.net/487adc2a-a988-4668-a3c0-28701a38d5e8/
+  - image: https://4nu0goopbx.ucarecd.net/4897b982-2100-460d-a69b-3241d88715dc/
 meta:
   description: Panaccordeon - Eπισκευή, συντήρηση και κούρδισμα ακορντεόν. Ένας
     χώρος διαμορφωμένος ειδικά για τους λάτρεις του οργάνου. Εδώ μπορείτε να
