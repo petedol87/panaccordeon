@@ -71,13 +71,13 @@ class Image extends React.Component {
     /* create source set for images */
     if (isUploadcare) {
       secSet = this.imageSizes.map(size => {
-        return `${src}-/progressive/yes/-/format/auto/-/preview/${size}x${size}/-/quality/lightest/${size}.jpg ${size}w`
+        return `${src}-/progressive/yes/-/format/auto/-/resize/${size}x${size}/-/quality/smart/${size}w`
       })
     }
 
     fullSrc = `${src}${
       isUploadcare
-        ? '-/progressive/yes/-/format/auto/-/resize/' +
+        ? '-/progressive/yes/-/format/auto/-/quality/smart/-/resize/' +
           this.getResolutionString(resolutions) +
           '/'
         : ''
