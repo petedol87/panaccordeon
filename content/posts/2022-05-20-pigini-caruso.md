@@ -3,10 +3,10 @@ template: SinglePost
 title: Pigini Caruso
 status: Published
 date: 2022-05-19
-featuredImage: https://ucarecdn.com/65bd010d-27a6-4e94-8919-d54ceafda030/
+featuredImage: https://4nu0goopbx.ucarecd.net/ba894234-aeea-4c2f-b5ea-d3aa5348bf6c/
 gallery:
-  - image: https://ucarecdn.com/2bef28a2-d5b2-4fa6-87e6-eede507be4d2/
-  - image: https://ucarecdn.com/51c9cd2c-c225-4cfb-9cf3-9440521d4fad/
+  - image: https://4nu0goopbx.ucarecd.net/0b7ac582-f0e9-406d-a27b-c0949186ba36/
+  - image: https://4nu0goopbx.ucarecd.net/1d8b591f-013c-4d67-8064-59ba4ed1a2f5/
 rightHandNotes: "41"
 rightHandReeds: "4"
 rightHandRegisters: 15+M
