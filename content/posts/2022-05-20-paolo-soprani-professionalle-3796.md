@@ -3,14 +3,14 @@ template: SinglePost
 title: Paolo Soprani Professionalle 3796
 status: Published
 date: 2022-05-18
-featuredImage: https://ucarecdn.com/f36cd5af-8af5-46b7-8837-8b4f516a363d/
+featuredImage: https://4nu0goopbx.ucarecd.net/1ca0f570-676e-47c3-b18d-d9f3e8434f05/
 gallery:
-  - image: https://ucarecdn.com/ffeb1425-5b58-4810-83a9-058eeb89364f/
-  - image: https://ucarecdn.com/3d221998-a748-4785-8a03-f3f5da37b9c2/
-  - image: https://ucarecdn.com/ed1db7b2-b84b-4c3c-a36c-2f9b51b162e2/
-  - image: https://ucarecdn.com/162424e7-80d7-4fda-b001-fe41293bd5f2/
-  - image: https://ucarecdn.com/438e6a78-6976-43f8-97c8-b8e879bbaf2b/
-  - image: https://ucarecdn.com/dd0a0c6d-81f5-4fa1-bab6-c2341238b811/
+  - image: https://4nu0goopbx.ucarecd.net/08893037-122b-4b66-8a13-60271d8fc4ae/
+  - image: https://4nu0goopbx.ucarecd.net/abf51635-82c7-4c86-8907-1ce821db9286/
+  - image: https://4nu0goopbx.ucarecd.net/7aec0622-1f87-4407-90a6-ec52d4a0053a/
+  - image: https://4nu0goopbx.ucarecd.net/7dc0b04d-3ec8-4191-8787-1997787008b8/
+  - image: https://4nu0goopbx.ucarecd.net/a8d77cc6-7abd-4037-ba9b-5a283e3b90e6/
+  - image: https://4nu0goopbx.ucarecd.net/c365a2d9-404b-4883-a252-9d9cc87d6001/
 rightHandNotes: "37"
 rightHandReeds: "4"
 rightHandRegisters: "11"
