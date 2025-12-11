@@ -3,15 +3,15 @@ template: SinglePost
 title: Scandalli Super VI
 status: Published
 date: 2022-07-15
-featuredImage: https://ucarecdn.com/4fa94ff8-7fb7-4209-9d87-56d02537014b/
+featuredImage: https://4nu0goopbx.ucarecd.net/38baabf4-701d-45d8-96c0-60d97c138aa3/
 gallery:
-  - image: https://ucarecdn.com/23169123-e204-4413-b9e0-72b901e761a0/
-  - image: https://ucarecdn.com/7ae0af03-db7c-448f-af36-910c6f058bef/
-  - image: https://ucarecdn.com/b025fd99-30a6-4916-89fb-bda0f0e34a97/
-  - image: https://ucarecdn.com/29b8a2a8-8093-4177-ad08-e5716f5aee1b/
-  - image: https://ucarecdn.com/c0879949-4adb-4c81-a1ce-4616ea2a28c7/
-  - image: https://ucarecdn.com/5cf4599f-32fd-4d76-8a4a-c59bd0075a2c/
-  - image: https://ucarecdn.com/524b6f54-9163-4b30-8b59-cf5233546ba1/
+  - image: https://4nu0goopbx.ucarecd.net/2ca5ec86-aaa4-4ab0-8662-428f023c4b45/
+  - image: https://4nu0goopbx.ucarecd.net/2572b1c8-19a8-493f-8106-86465bd78e88/
+  - image: https://4nu0goopbx.ucarecd.net/487fb113-84ae-4478-80c6-dd13a7860c60/
+  - image: https://4nu0goopbx.ucarecd.net/2caeb231-c941-4993-826b-f19a3a448452/
+  - image: https://4nu0goopbx.ucarecd.net/2dbe1b82-2c80-442a-b0d5-ec6361f2bc89/
+  - image: https://4nu0goopbx.ucarecd.net/a3be7d68-4d1c-4227-a899-f800c2c3aad6/
+  - image: https://4nu0goopbx.ucarecd.net/bc46ff36-d82e-4bbf-8fc0-3ac6fbd0e39f/
 excerpt: "Επαγγελματικό ακορντεόν κορυφαίας ποιότητας. "
 rightHandNotes: "41"
 rightHandReeds: "4"
