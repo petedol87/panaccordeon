@@ -3,10 +3,10 @@ template: SinglePost
 title: Pigini Primavera P75
 status: Published
 date: 2022-05-14
-featuredImage: https://ucarecdn.com/fe787e40-c3cd-4f80-abf9-86a06b77039b/
+featuredImage: https://4nu0goopbx.ucarecd.net/ae3b4ef6-7ecb-46bf-bde6-8251c18c32a1/
 gallery:
-  - image: https://ucarecdn.com/af44f30a-5b9f-466d-83a1-f40b70e3d28d/
-  - image: https://ucarecdn.com/41b360ae-3df6-4e37-8750-0978421282b9/
+  - image: https://4nu0goopbx.ucarecd.net/d204295b-e0c0-406f-859b-5d5288c92388/
+  - image: https://4nu0goopbx.ucarecd.net/ef77bd81-228d-4163-a327-db9fded40eaf/
     alt: Pigini Primavera P75
 excerpt: Ελαφρύ 96άρι ακορντεόν ιταλικής κατασκευής.
 rightHandNotes: "37"
