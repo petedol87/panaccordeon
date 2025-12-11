@@ -3,9 +3,9 @@ template: SinglePost
 title: Excelsior Standard 706
 status: Published
 date: 2022-05-17
-featuredImage: https://ucarecdn.com/f084b2ec-c602-415f-8d5a-4ec5baea4527/
+featuredImage: https://4nu0goopbx.ucarecd.net/18847876-306f-4615-b39f-615814186fee/
 gallery:
-  - image: https://ucarecdn.com/b7ceda98-e839-46a4-94c0-6eb5e4d2d826/
+  - image: https://4nu0goopbx.ucarecd.net/b20bb2f9-f96f-47cf-8917-881b0df15080/
 rightHandNotes: 77(43)
 rightHandReeds: "4"
 rightHandRegisters: "11"
