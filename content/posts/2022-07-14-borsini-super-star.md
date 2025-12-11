@@ -3,18 +3,18 @@ template: SinglePost
 title: Borsini Super Star
 status: Published
 date: 2022-07-14
-featuredImage: https://ucarecdn.com/2e0f7ce9-88cf-4faa-9ec0-d0629449f352/
+featuredImage: https://4nu0goopbx.ucarecd.net/0f487fbc-29c0-460c-b7fa-7cf2fce92656/
 gallery:
-  - image: https://ucarecdn.com/39f99794-ec4f-4a7e-ade8-7be60f766c04/
-  - image: https://ucarecdn.com/81423256-2508-4029-a985-7c57373c635a/
-  - image: https://ucarecdn.com/66ebdbd0-48ee-4d69-bfc7-3632b5e8ae41/
-  - image: https://ucarecdn.com/f775afa8-5e3a-455c-a40c-dbf5d2de816e/
-  - image: https://ucarecdn.com/a7700de6-397f-4f56-90fd-489f3d57d282/
-  - image: https://ucarecdn.com/faf3c446-328a-401f-a84a-8cb0dfb4e362/
-  - image: https://ucarecdn.com/51cc9ed0-11c4-4cb1-9d8e-edf75b0edf5d/
-  - image: https://ucarecdn.com/58b37eb6-3069-4370-a1ad-8296dc7ba1b8/
-  - image: https://ucarecdn.com/e5e5c76c-3b40-4c36-a5c1-b843ee5e3db1/
-  - image: https://ucarecdn.com/cfbac5c2-7d45-4722-bf91-03e601fbd58b/
+  - image: https://4nu0goopbx.ucarecd.net/2d2e2d0a-2629-45d3-ab46-6619c317b6b8/
+  - image: https://4nu0goopbx.ucarecd.net/488fab0b-add7-4f3d-a55b-79a98851317b/
+  - image: https://4nu0goopbx.ucarecd.net/90d374c3-fab7-4725-85bf-40543b904662/
+  - image: https://4nu0goopbx.ucarecd.net/d355f985-9dac-4205-b6f0-b1a5c68d1101/
+  - image: https://4nu0goopbx.ucarecd.net/b89e9b70-6c67-48d4-be23-f092f027bce3/
+  - image: https://4nu0goopbx.ucarecd.net/2b14d5c4-bf5c-4504-a844-1df9018fda7e/
+  - image: https://4nu0goopbx.ucarecd.net/6fb258b4-7a17-4a03-8ce2-df180c5746e4/
+  - image: https://4nu0goopbx.ucarecd.net/4b924d13-1302-45c8-a51d-5fd703132371/
+  - image: https://4nu0goopbx.ucarecd.net/bb218621-db86-4524-a204-7082fb21b1a3/
+  - image: https://4nu0goopbx.ucarecd.net/25da3ce4-6fee-41d5-96ee-4e0bdd3e3b5d/
 excerpt: Ιδανικό όργανο για επαγγελματίες. Διαθέτει επιπλέον και 3 ρετζίστρα
   πηγουνιού για γρήγορες αλλαγές.
 rightHandNotes: "41"
