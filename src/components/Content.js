@@ -41,7 +41,7 @@ const withContentImages = source => {
   return source
 }
 
-const MyImage = ({ nodeKey, src, title, alt }) => {
+const MyImage = ({ src, title, alt }) => {
   const decodedSrc = decodeURI(src)
   return (
     <Image
@@ -84,9 +84,9 @@ const Content = ({ source, src, className = '' }) => {
   return (
     <Marked
       className={`Content ${className}`}
-      source={encodeMarkdownURIs(source)}
-      renderers={{
-        image: MyImage,
+      children={encodeMarkdownURIs(source)}
+      components={{
+        img: MyImage,
         html: HtmlBlock
       }}
     />
