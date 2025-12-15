@@ -3,9 +3,9 @@ template: SinglePost
 title: Λουριά πλάτης Carini Dena
 status: Published
 date: 2022-05-22
-featuredImage: https://ucarecdn.com/71ebef20-6219-49b3-8ec2-acb378783984/
+featuredImage: https://4nu0goopbx.ucarecd.net/f33ea7a7-24c9-4568-898c-6688b61e3c87/
 gallery:
-  - image: https://ucarecdn.com/f87dad92-44ad-4396-ac4b-c31c8dd39056/
+  - image: https://4nu0goopbx.ucarecd.net/27400c20-dc4b-4ad8-a6e0-46a4aa98332d/
 excerpt: Λουριά πλάτης διαφόρων ειδών (βελούδο, δέρμα, δερματίνη) σε διάφορα
   μεγέθη για όλους τους τύπους ακορντεόν.
 categories:
