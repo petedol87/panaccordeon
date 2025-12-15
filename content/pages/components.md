@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: service
 title: Service
-featuredImage: https://ucarecdn.com/a1c4dd0c-9d6f-47c1-9340-e5ff1344aa48/
+featuredImage: https://4nu0goopbx.ucarecd.net/126ebc01-e3d9-4437-b0ad-fdd837e780ea/
 subtitle: Κούρδισμα - Επισκευή - Ανακατασκευή - Αναπαλαίωση
 section1: >-
   Καθώς ο χώρος μας είναι ο πιο εξοπλισμένος και ειδικευμένος στο είδος του
