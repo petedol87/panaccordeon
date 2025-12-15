@@ -5,8 +5,8 @@ title: Panaccordeon
 featuredImage: https://4nu0goopbx.ucarecd.net/70740d3a-a4f7-43c7-a541-bf72adefa11d/
 subtitle: Επισκευή - Συντήρηση - Εμπορία ακορντεόν
 gallery:
-  - image: https://4nu0goopbx.ucarecd.net/ee42c612-e98a-4eb6-8036-b9ae2e883402/
   - image: https://4nu0goopbx.ucarecd.net/5e0bb3be-2117-4be5-ab92-ef22a32ce1e0/
+  - image: https://4nu0goopbx.ucarecd.net/ee42c612-e98a-4eb6-8036-b9ae2e883402/
   - image: https://4nu0goopbx.ucarecd.net/487adc2a-a988-4668-a3c0-28701a38d5e8/
   - image: https://4nu0goopbx.ucarecd.net/4897b982-2100-460d-a69b-3241d88715dc/
   - image: https://4nu0goopbx.ucarecd.net/0df6ef0f-a9bb-4ce0-bbfa-cbb2f0847ab2/
