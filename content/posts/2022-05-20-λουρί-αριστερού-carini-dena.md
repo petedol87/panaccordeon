@@ -3,9 +3,9 @@ template: SinglePost
 title: Λουρί αριστερού Carini Dena
 status: Published
 date: 2022-05-21
-featuredImage: https://ucarecdn.com/2733b245-e6b9-4389-b7f5-649d9c5eef64/
+featuredImage: https://4nu0goopbx.ucarecd.net/d07d2aeb-83cb-45fc-9c6b-788f11ac4014/
 gallery:
-  - image: https://ucarecdn.com/66ecf1ab-8cc8-47a5-aa83-48f6ddfe371f/
+  - image: https://4nu0goopbx.ucarecd.net/ade9e5f6-c36d-45f2-9fd8-d67aee4b2c1b/
 excerpt: Λουρί αριστερού χεριού διαφόρων ειδών (βελούδο, δέρμα, δερματίνη) σε
   διάφορα μεγέθη.
 categories:
