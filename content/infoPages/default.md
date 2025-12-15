@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: info
 title: Συμβουλές
-featuredImage: https://ucarecdn.com/25e8fefd-3c60-4322-b875-59012fe94bd9/
+featuredImage: https://4nu0goopbx.ucarecd.net/d660b0b8-48ec-44a4-9aee-9a0248e49817/
 meta:
   description: Βασικές αρχές συντήρησης του ακορντεόν. Συμβουλές για τη μείωση των
     φυσικών φθορών λόγω χρόνου.
