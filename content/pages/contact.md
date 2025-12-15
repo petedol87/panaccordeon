@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Επικοινωνία
-featuredImage: https://ucarecdn.com/2cfc67ac-6200-4ed5-8126-20fd3d729cf7/
+featuredImage: https://4nu0goopbx.ucarecd.net/9c48cce6-3a5e-4362-bdac-59e5ffbcdab9/
 subtitle: Παρακάτω θα βρείτε τους τρόπους με τους οποίους μπορείτε να
   επικοινωνείτε μαζί μας
 address: Γεωρ. Παπανδρέου 30, Νέα Πέραμος 190 06
