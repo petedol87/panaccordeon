@@ -3,9 +3,9 @@ template: SinglePost
 title: Κλείστρα Carini Dena
 status: Published
 date: 2022-05-19
-featuredImage: https://ucarecdn.com/723014b8-c3b6-42e7-9e66-41929280ffc4/
+featuredImage: https://4nu0goopbx.ucarecd.net/b44104dd-1d24-468b-aebf-d62f2231d132/
 gallery:
-  - image: https://ucarecdn.com/e2925cbd-6b83-47d5-99cf-710b62a1fbad/
+  - image: https://4nu0goopbx.ucarecd.net/56c3e5f4-6b06-4092-98fb-6dc64e7f1b7e/
 excerpt: Κλείστρα φυσούνας διαφόρων σχεδίων σε διάφορα μεγέθη.
 categories:
   - category: Λουριά - Μαξιλαράκια
