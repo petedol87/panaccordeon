@@ -23,4 +23,6 @@ leftHandRegisters: 6 / 3
 specialFeatures: Converter
 weight: 12,4
 dimensions: 48x20x53 (cm)
+categories:
+  - category: Μεταχειρισμένα
 ---
