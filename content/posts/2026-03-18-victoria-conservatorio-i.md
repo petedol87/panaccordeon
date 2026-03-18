@@ -13,14 +13,15 @@ gallery:
   - image: https://4nu0goopbx.ucarecd.net/969a51e5-5a50-461a-93e5-cf6898f3e92c/
   - image: https://4nu0goopbx.ucarecd.net/306e2eb9-2499-4f90-96cb-ebcf4a3391ff/
   - image: https://4nu0goopbx.ucarecd.net/93415123-0891-4e4a-9bf3-95344c452d25/
+excerpt: Converter
 rightHandNotes: "41"
 rightHandReeds: "4"
 rightHandRegisters: 13 + 3 (chin)
 cassotto: Ναι
 leftHandBass: 120 / 55 (converter)
-leftHandReeds: 4 / 2 (converter)
+leftHandReeds: 4 / 2
 leftHandRegisters: 6 / 3
-specialFeatures: Converter
+specialFeatures: "Τιμή: κατόπιν επικοινωνίας"
 weight: 12,4
 dimensions: 48x20x53 (cm)
 categories:
